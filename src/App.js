@@ -23,6 +23,9 @@ function App() {
         </div>
         <div className="message second">
           <div className="message__container second">
+            <div className="message__flower2">
+              <img src={require("./images/flower-2.svg")} />
+            </div>
             <div>
               <p className="message__invite">
                 You Are Cordially Invited to Our Socially Distanced Simple
@@ -33,17 +36,25 @@ function App() {
                 come
               </p>
             </div>
-            <div className="message__flower2">
-              <img src={require("./images/flower-2.svg")} />
-            </div>
+            <img
+              src={require("./images/division.png")}
+              className="message__division"
+            />
+
             <div>
-              <p>
+              <p className="message__note">
                 We would like to respectfully inform you that since we are
                 following social guidelines please refrain from bringing an
                 individual that has not been explicitly invited.
               </p>
+              {/* <div className="message__map">
+                <a href="https://goo.gl/maps/Pafi4iZZkKSsn7kJ8">View on Maps</a>
+                <p>
+                  Block 34 Lot 26 Santan St. Evegreen Heights Subdivision, San
+                  Jose Del Monte Bulacan
+                </p>
+              </div> */}
             </div>
-            {/* <a href="https://goo.gl/maps/Pafi4iZZkKSsn7kJ8">Map</a> */}
           </div>
         </div>
       </div>
