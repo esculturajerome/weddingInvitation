@@ -1,6 +1,6 @@
 @import url("https://fonts.googleapis.com/css2?family=Parisienne&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Sacramento&display=swap");
-@import url("https://fonts.googleapis.com/css2?family=Kumbh+Sans&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Courgette&display=swap");
 
 .messagesList {
   position: relative;
@@ -60,10 +60,15 @@
 }
 
 .message.first {
+  /* background: linear-gradient(
+    303.14deg,
+    #c1c2bc 14.86%,
+    rgba(225, 231, 196, 0) 100%
+  ); */
   background: linear-gradient(
     303.14deg,
     #c1c2bc 14.86%,
-    rgba(198, 206, 159, 0) 100%
+    rgba(189, 189, 189, 0.22) 100%
   );
   padding: 10px;
 }
@@ -93,7 +98,7 @@
   display: flex;
   flex-direction: column;
   justify-content: space-around;
-  height: 100vh;
+  height: 80vh;
 }
 
 .message__invite {
@@ -116,4 +121,16 @@
 
 .message__note {
   font-size: 1rem;
+}
+
+.message__map {
+  text-align: center;
+}
+
+.message__map a,
+.message__map p {
+  color: #6f9665 !important;
+  font-size: 1rem !important;
+  font-family: "Courgette", cursive !important;
+  margin: 10px auto !important;
 }
