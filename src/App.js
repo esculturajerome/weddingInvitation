@@ -70,7 +70,7 @@ function App() {
               <ul>
                 <li>Mr. Godofredo Munieza Jr.</li>
                 <li>Congressman Edgar Erice</li>
-                <li>Counsilor PJ Malonzo</li>
+                <li>Councilor PJ Malonzo</li>
                 <li>Mrs. Marcelina Manalo</li>
                 <li>Mrs. Andrea Maala</li>
                 <li>Mr. Dionisio & Mrs. Violeta Vasquez</li>
