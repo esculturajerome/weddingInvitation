@@ -63,9 +63,19 @@ function App() {
         </div>
         <div className="message third">
           <div className="message__container third">
+            <div className="flower__container">
+              <img src={require("./images/flower-2.png")} className="flower" />
+            </div>
             <div className="message__sponsor">
-              <img src={require("./images/flower-2.png")} />
-
+              <p className="message__principal">
+                With the blessing of our Parents
+              </p>
+              <ul>
+                <li>Mr. Estelito Escultura</li>
+                <li>Mrs. Victoriana Escultura</li>
+                <li>Mr. Arsenio Herbolario</li>
+                <li>Mrs. Natividad Herbolario</li>
+              </ul>
               <p className="message__principal">Principal Sponsors</p>
               <ul>
                 <li>Mr. Godofredo Munieza Jr.</li>
@@ -74,6 +84,7 @@ function App() {
                 <li>Councilor PJ Malonzo</li>
                 <li>Mrs. Andrea Maala</li>
                 <li>Mrs. Marcelina Manalo</li>
+                <li>Mr. Cherubim & Mrs. Joemen Barrios</li>
                 <li>Mr. Ronald Paul & Mrs. Isabel Loretcha</li>
                 <li>Mr. William & Mrs. Alme Aillen Schwingel</li>
                 <li>Mr. Noel & Mrs. Terisita Herbolario</li>
