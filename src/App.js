@@ -71,25 +71,20 @@ function App() {
                 With the blessing of our Parents
               </p>
               <ul>
-                <li>Mr. Estelito Escultura</li>
-                <li>Mrs. Victoriana Escultura</li>
-                <li>Mr. Arsenio Herbolario</li>
-                <li>Mrs. Natividad Herbolario</li>
+                <li>Mr. Estelito Escultura & Mrs. Victoriana Escultura</li>
+                <li>Mr. Arsenio Herbolario & Mrs. Natividad Herbolario</li>
               </ul>
               <p className="message__principal">Principal Sponsors</p>
               <ul>
-                <li>Mr. Godofredo Munieza Jr.</li>
-                <li>Mrs. Merlita Nina Cayetano</li>
-                <li>Congressman Edgar Erice</li>
-                <li>Councilor PJ Malonzo</li>
-                <li>Mrs. Andrea Maala</li>
-                <li>Mrs. Marcelina Manalo</li>
-                <li>Mr. Cherubim & Mrs. Joemen Barrios</li>
-                <li>Mr. Ronald Paul & Mrs. Isabel Loretcha</li>
+                <li>Congressman Edgar R. Erice & Mrs. Merlita Nina Cayetano</li>
+                <li>
+                  Councilor Christopher "PJ" Malonzo & Mrs. Marcelina Manalo
+                </li>
+                <li>Mr. Godofredo Munieza Jr. & Mrs. Joemen Barrios</li>
+                <li>Mr. Ronald Paul Loretcha & Mrs. Andrea Maala</li>
+                <li>Mr. Dionisio Vasquez & Mrs. Terisita Herbolario</li>
+                <li>Mr. Eduardo Rodriguez & Mrs. Cielo Araceli</li>
                 <li>Mr. William & Mrs. Alme Aillen Schwingel</li>
-                <li>Mr. Noel & Mrs. Terisita Herbolario</li>
-                <li>Mr. Dionisio & Mrs. Violeta Vasquez</li>
-                <li>Mr. Eduardo & Mrs. Simeona Rodriguez</li>
               </ul>
               <p></p>
               <p></p>

@@ -80,12 +80,6 @@ body {
   width: 350px;
 }
 
-@media only screen and (max-width: 600px) {
-  .gallery {
-    display: none;
-  }
-}
-
 .message__flower {
   z-index: 1;
 }
@@ -152,8 +146,14 @@ body {
   margin: 10px auto !important;
 }
 
+.message__container.third {
+  width: 100%;
+}
+
 .message__sponsor {
   text-align: center;
+  width: 90%;
+  margin: 0 auto;
 }
 .message__principal {
   font-family: "Parisienne", cursive;
@@ -169,8 +169,18 @@ body {
 .flower {
   width: 300px;
   position: absolute;
-  margin-top: 530px;
+  margin-top: 350px;
   left: 50% !important;
   transform: translate(-50%, 0);
   z-index: -1;
+}
+
+@media only screen and (max-width: 600px) {
+  .gallery {
+    display: none;
+  }
+
+  .message__sponsor li {
+    font-size: 0.8rem;
+  }
 }
