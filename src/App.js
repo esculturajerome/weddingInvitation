@@ -8,12 +8,10 @@ function App() {
         <div className="message first">
           <div className="message__container first">
             <div className="message__flower">
-              <img src={require("./images/flower.svg")} />
+              <img src={require("./images/flower.png")} />
             </div>
             <div className="message__title">
-              <h1>Rome</h1>
-              <p className="message__and">&</p>
-              <h1>Gel</h1>
+              <img src={require("./images/Rome-and-Gel-Title.png")} alt="" />
               <p>
                 are getting married on Saturday, 26th of September 2020, 2:00 in
                 the afternoon.
@@ -25,16 +23,16 @@ function App() {
           <div className="message__container second">
             <div>
               <p className="message__invite">
-                You Are Cordially Invited to Our Socially Distanced Simple
-                Wedding
+                You are cordially invited to watch our socially-distanced simple
+                wedding.
               </p>
-              <p className="message__span">
+              {/* <p className="message__span">
                 We want you there but of course we will understand if you can’t
-                come
-              </p>
+                come.
+              </p> */}
             </div>
             <div className="message__flower2">
-              <img src={require("./images/flower-2.svg")} />
+              <img src={require("./images/flower-2.png")} />
             </div>
 
             {/* <p className="message__note">
@@ -43,12 +41,18 @@ function App() {
                 individual that has not been explicitly invited.
               </p> */}
             <div className="message__map">
-              <a href="https://goo.gl/maps/Pafi4iZZkKSsn7kJ8" target="_blank">
-                View on Maps
+              <a
+                href="https://www.messenger.com/groupcall/LINK:7VQCjiGjpc2H72AV/"
+                target="_blank"
+              >
+                Watch in Messenger Room
               </a>
+              <br />
+              <br />
               <p>
-                Block 34 Lot 26 Santan St. Evegreen Heights Subdivision, San
-                Jose Del Monte Bulacan
+                We would be very happy for everyone to join our wedding via
+                Messenger Room. Due to the pandemic, only immediate family can
+                participate directly. We hope you’ll understand.
               </p>
             </div>
           </div>

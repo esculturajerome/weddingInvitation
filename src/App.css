@@ -2,6 +2,12 @@
 @import url("https://fonts.googleapis.com/css2?family=Sacramento&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Courgette&display=swap");
 
+body {
+  margin: 0;
+  background-image: url("./images//noise.png");
+  background-color: #fffbe4;
+}
+
 .messagesList {
   position: relative;
   height: 100vh;
@@ -21,12 +27,12 @@
   height: 100vh;
   display: grid;
   place-items: center;
-  color: #f7f7f5;
+  color: #751243;
   z-index: 2;
 }
 
 .message__container.first {
-  border: 2px solid;
+  border: 5px solid #fff;
   /* box-shadow: -3px 4px 4px rgba(0, 0, 0, 0.1); */
 }
 
@@ -39,24 +45,15 @@
   align-items: center;
 }
 
-.message__and {
-  font-size: 44px;
-  margin: 0;
+.message__title img {
+  width: 150px;
 }
 
 .message__title p {
-  font-family: "Parisienne", cursive;
+  font-family: "Courgette", cursive;
   text-align: center;
-  color: #fff;
   width: 80%;
-  font-size: 1.5rem;
-}
-
-.message__title h1 {
-  font-family: "Parisienne", cursive;
-  font-size: 4rem;
-  margin: 0px;
-  z-index: 2;
+  font-size: 1.2rem;
 }
 
 .message.first {
@@ -65,12 +62,13 @@
     #c1c2bc 14.86%,
     rgba(225, 231, 196, 0) 100%
   ); */
-  background: linear-gradient(
+  /* background: linear-gradient(
     303.14deg,
     #c1c2bc 14.86%,
     rgba(189, 189, 189, 0.22) 100%
-  );
-  padding: 10px;
+  ); */
+  /* background-color: #fffbe4; */
+  padding: 0 10px;
 }
 
 .message__flower {
@@ -87,11 +85,15 @@
 .message.second p {
   font-family: "Parisienne", cursive;
   text-align: center;
-  color: #000;
+  color: #751243;
   margin-bottom: 0;
   width: 80%;
-  margin: 0 auto;
-  font-size: 1.2rem;
+  margin: 10px auto;
+  font-size: 1rem;
+}
+
+.message__span {
+  font-family: "Courgette", cursive !important;
 }
 
 .message__container.second {
@@ -129,7 +131,7 @@
 
 .message__map a,
 .message__map p {
-  color: #6f9665 !important;
+  color: #751243 !important;
   font-size: 1rem !important;
   font-family: "Courgette", cursive !important;
   margin: 10px auto !important;
