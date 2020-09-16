@@ -61,6 +61,26 @@ function App() {
             </div>
           </div>
         </div>
+        <div className="message third">
+          <div className="message__container third">
+            <div className="message__sponsor">
+              <img src={require("./images/flower-2.png")} />
+
+              <p className="message__principal">Principal Sponsors</p>
+              <ul>
+                <li>Mr. Godofredo Munieza Jr.</li>
+                <li>Congressman Edgar Erice</li>
+                <li>Counsilor PJ Malonzo</li>
+                <li>Mrs. Marcelina Manalo</li>
+                <li>Mrs. Andrea Maala</li>
+                <li>Mr. Noel & Mrs. Terisita Herbolario</li>
+              </ul>
+              <p></p>
+              <p></p>
+              <p></p>
+            </div>
+          </div>
+        </div>
       </div>
     </div>
   );

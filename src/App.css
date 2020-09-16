@@ -6,6 +6,7 @@ body {
   margin: 0;
   background-image: url("./images//noise.png");
   background-color: #fffbe4;
+  font-family: "Courgette", cursive;
 }
 
 .messagesList {
@@ -80,7 +81,7 @@ body {
 }
 
 @media only screen and (max-width: 600px) {
-  .gallery img {
+  .gallery {
     display: none;
   }
 }
@@ -149,4 +150,21 @@ body {
   font-size: 1rem !important;
   font-family: "Courgette", cursive !important;
   margin: 10px auto !important;
+}
+
+.message__sponsor {
+  text-align: center;
+}
+.message__principal {
+  font-family: "Parisienne", cursive;
+  font-size: 2rem !important;
+}
+
+.message__sponsor ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.message__sponsor img {
+  width: 310px;
 }
