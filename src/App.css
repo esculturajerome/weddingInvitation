@@ -158,6 +158,7 @@ body {
 .message__principal {
   font-family: "Parisienne", cursive;
   font-size: 2rem !important;
+  margin: 10px;
 }
 
 .message__sponsor ul {

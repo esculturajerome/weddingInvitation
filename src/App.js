@@ -54,7 +54,7 @@ function App() {
               <br />
               <p>
                 We would be very happy for everyone to join our wedding via
-                Messenger Room on September 26, 2020 2:00 in the afternoon. Due
+                Messenger Room on September 26, 2020, 2:00 in the afternoon. Due
                 to the pandemic, only immediate family can participate directly.
                 We hope you’ll understand.
               </p>
@@ -89,6 +89,7 @@ function App() {
                 <li>Mr. William & Mrs. Alme Aillen Schwingel</li>
                 <li>Mr. Noel & Mrs. Terisita Herbolario</li>
                 <li>Mr. Dionisio & Mrs. Violeta Vasquez</li>
+                <li>Mr. Eduardo & Mrs. Simeona Rodriguez</li>
               </ul>
               <p></p>
               <p></p>
