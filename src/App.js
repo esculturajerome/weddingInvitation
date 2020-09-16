@@ -69,13 +69,13 @@ function App() {
               <p className="message__principal">Principal Sponsors</p>
               <ul>
                 <li>Mr. Godofredo Munieza Jr.</li>
+                <li>Mrs. Merlita Nina Cayetano</li>
                 <li>Congressman Edgar Erice</li>
                 <li>Councilor PJ Malonzo</li>
-                <li>Mrs. Marcelina Manalo</li>
                 <li>Mrs. Andrea Maala</li>
-                <li>Mrs. Merlita Nina Cayetano</li>
-                <li>Mr. Dionisio & Mrs. Violeta Vasquez</li>
+                <li>Mrs. Marcelina Manalo</li>
                 <li>Mr. Noel & Mrs. Terisita Herbolario</li>
+                <li>Mr. Dionisio & Mrs. Violeta Vasquez</li>
               </ul>
               <p></p>
               <p></p>
