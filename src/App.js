@@ -6,6 +6,9 @@ function App() {
     <div>
       <div className="messagesList">
         <div className="message first">
+          <div className="gallery">
+            <img src={require("./images/img-1.png")} alt="" />
+          </div>
           <div className="message__container first">
             <div className="message__flower">
               <img src={require("./images/flower.png")} />
@@ -51,8 +54,9 @@ function App() {
               <br />
               <p>
                 We would be very happy for everyone to join our wedding via
-                Messenger Room. Due to the pandemic, only immediate family can
-                participate directly. We hope you’ll understand.
+                Messenger Room on September 26, 2020 2:00 in the afternoon. Due
+                to the pandemic, only immediate family can participate directly.
+                We hope you’ll understand.
               </p>
             </div>
           </div>
