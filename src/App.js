@@ -74,6 +74,7 @@ function App() {
                 <li>Councilor PJ Malonzo</li>
                 <li>Mrs. Andrea Maala</li>
                 <li>Mrs. Marcelina Manalo</li>
+                <li>Mr. William & Mrs. Alme Aillen Schwingel</li>
                 <li>Mr. Noel & Mrs. Terisita Herbolario</li>
                 <li>Mr. Dionisio & Mrs. Violeta Vasquez</li>
               </ul>
