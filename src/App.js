@@ -26,7 +26,7 @@ function App() {
           <div className="message__container second">
             <div>
               <p className="message__invite">
-                You are cordially invited to watch our socially-distanced simple
+                You are cordially invited to watch our socially-distanced
                 wedding.
               </p>
               {/* <p className="message__span">
@@ -76,11 +76,15 @@ function App() {
               </ul>
               <p className="message__principal">Principal Sponsors</p>
               <ul>
-                <li>Congressman Edgar R. Erice & Mrs. Merlita Nina Cayetano</li>
+                <li>
+                  Congressman Edgar R. "Egay" Erice & Mrs. Merlita Nina Cayetano
+                </li>
                 <li>
                   Councilor Christopher "PJ" Malonzo & Mrs. Marcelina Manalo
                 </li>
-                <li>Mr. Godofredo Munieza Jr. & Mrs. Joemen Barrios</li>
+                <li>
+                  Prof. Godofredo T. Munieza Jr. & Prof. Joemen G. Barrios
+                </li>
                 <li>Mr. Ronald Paul Loretcha & Mrs. Andrea Maala</li>
                 <li>Mr. Dionisio Vasquez & Mrs. Terisita Herbolario</li>
                 <li>Mr. Eduardo Rodriguez & Mrs. Cielo Araceli</li>
