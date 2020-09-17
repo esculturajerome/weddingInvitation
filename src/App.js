@@ -87,8 +87,9 @@ function App() {
                 </li>
                 <li>Mr. Ronald Paul Loretcha & Mrs. Andrea Maala</li>
                 <li>Mr. Dionisio Vasquez & Mrs. Terisita Herbolario</li>
-                <li>Mr. Eduardo Rodriguez & Mrs. Cielo Araceli</li>
+                <li>Mr. Cherubim Barrios & Mrs. Cielo Araceli</li>
                 <li>Mr. William & Mrs. Alme Aillen Schwingel</li>
+                <li>Mr. Eduardo & Mrs. Simeona Rodriguez</li>
               </ul>
               <p></p>
               <p></p>
