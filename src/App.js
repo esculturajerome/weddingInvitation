@@ -48,13 +48,13 @@ function App() {
                 href="https://www.messenger.com/groupcall/LINK:7VQCjiGjpc2H72AV/"
                 target="_blank"
               >
-                Watch in Messenger Room
+                Watch our socially-distanced wedding on Youtube
               </a>
               <br />
               <br />
               <p>
                 We would be very happy for everyone to join our wedding via
-                Messenger Room on September 26, 2020, 2:00 in the afternoon. Due
+                Youtube Live on September 26, 2020, 2:00 in the afternoon. Due
                 to the pandemic, only immediate family can participate directly.
                 We hope you’ll understand.
               </p>
@@ -85,10 +85,11 @@ function App() {
                 <li>
                   Prof. Godofredo T. Munieza Jr. & Prof. Joemen G. Barrios
                 </li>
-                <li>Mr. Ronald Paul Loretcha & Mrs. Andrea Maala</li>
-                <li>Mr. Dionisio Vasquez & Mrs. Terisita Herbolario</li>
                 <li>Mr. Cherubim Clement Barrios & Mrs. Cielo Araceli</li>
+                <li>Mr. Dionisio Vasquez & Mrs. Terisita Herbolario</li>
+                <li>Mr. Samuel Santiago & Mrs. Andrea Maala</li>
                 <li>Mr. William & Mrs. Alme Aillen Schwingel</li>
+                <li>Mr. Ronald Paul & Mrs. Isabel Loretcha</li>
                 <li>Mr. Eduardo & Mrs. Simeona Rodriguez</li>
               </ul>
               <p></p>
