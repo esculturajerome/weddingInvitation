@@ -35,7 +35,9 @@ function App() {
               </p> */}
             </div>
             <div className="message__flower2">
-              <img src={require("./images/flower-2.png")} />
+              <a href="https://youtu.be/IUauZP9buPY" target="_blank">
+                <img src={require("./images/yt-thumb.png")} />
+              </a>
             </div>
 
             {/* <p className="message__note">
@@ -45,10 +47,11 @@ function App() {
               </p> */}
             <div className="message__map">
               <a
-                href="https://www.messenger.com/groupcall/LINK:7VQCjiGjpc2H72AV/"
+                href="https://youtu.be/IUauZP9buPY"
                 target="_blank"
+                className="message__cta"
               >
-                Watch our socially-distanced wedding on Youtube
+                Click here to watch
               </a>
               <br />
               <br />

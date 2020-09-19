@@ -122,7 +122,8 @@ body {
 }
 
 .message__flower2 img {
-  width: 180px;
+  width: 100%;
+  max-width: 550px;
 }
 
 .message__division {
@@ -138,12 +139,24 @@ body {
   text-align: center;
 }
 
-.message__map a,
 .message__map p {
   color: #751243 !important;
   font-size: 1rem !important;
   font-family: "Courgette", cursive !important;
   margin: 10px auto !important;
+}
+
+.message__cta {
+  background-color: #751243;
+  color: #fdf4b8;
+  text-decoration: none;
+  padding: 10px;
+  border-radius: 3px;
+  transition: all 0.2s ease-in;
+}
+
+.message__cta:hover {
+  box-shadow: 0px 10px 10px rgba(73, 0, 36, 0.25);
 }
 
 .message__container.third {
