@@ -35,7 +35,10 @@ function App() {
               </p> */}
             </div>
             <div className="message__flower2">
-              <a href="https://youtu.be/IUauZP9buPY" target="_blank">
+              <a
+                href="https://www.youtube.com/watch?v=Pm8HfXA6UGE"
+                target="_blank"
+              >
                 <img src={require("./images/yt-thumb.png")} />
               </a>
             </div>
@@ -47,7 +50,7 @@ function App() {
               </p> */}
             <div className="message__map">
               <a
-                href="https://youtu.be/IUauZP9buPY"
+                href="https://www.youtube.com/watch?v=Pm8HfXA6UGE"
                 target="_blank"
                 className="message__cta"
               >
