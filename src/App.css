@@ -212,9 +212,9 @@ body {
     margin-bottom: 10px;
   }
 
-  .message__invite {
+  /* .message__invite {
     font-size: 1.3rem !important;
-  }
+  } */
 
   .message__map p {
     font-size: 0.8rem !important;
