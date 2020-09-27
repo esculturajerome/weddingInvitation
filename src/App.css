@@ -1,6 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Parisienne&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Sacramento&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Courgette&display=swap");
+@import "~video-react/dist/video-react.css";
 
 body {
   margin: 0;
@@ -119,6 +120,12 @@ body {
 .message__flower2 {
   text-align: center;
   margin-bottom: 10px;
+  display: flex;
+  justify-content: center;
+}
+
+.youtube-live {
+  max-width: 90%;
 }
 
 .message__flower2 img {
@@ -195,5 +202,22 @@ body {
 
   .message__sponsor li {
     font-size: 0.8rem;
+  }
+
+  .message__flower2 {
+    flex-wrap: wrap;
+  }
+
+  .youtube-live {
+    height: 180px;
+    margin-bottom: 10px;
+  }
+
+  .message__invite {
+    font-size: 1.3rem !important;
+  }
+
+  .message__map p {
+    font-size: 0.8rem !important;
   }
 }
